@@ -1,0 +1,15 @@
+{
+  "name": "covidcheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pkg-install": "^1.0.0",
+    "puppeteer": "^13.4.1"
+  }
+}
